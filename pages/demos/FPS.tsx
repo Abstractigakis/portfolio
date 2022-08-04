@@ -7,7 +7,7 @@ const FPSPage = () => {
         POC for running unity projects in the browser
       </p>
 
-      <div className="w-screen h-screen inset-0 absolute -z-10">
+      <div className="grid place-items-center w-screen h-screen inset-0 absolute -z-10">
         <FPS />
       </div>
     </>
