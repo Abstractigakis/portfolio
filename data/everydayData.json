@@ -1,0 +1,3206 @@
+{
+  "user": { "name": "Eric", "email": "ericstratigakis@gmail.com" },
+  "habits": [
+    {
+      "name": "Good Sleep",
+      "description": null,
+      "archived": null,
+      "time": null,
+      "color": "green",
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": true,
+      "sunday": true,
+      "dates": {
+        "2022-06-02": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 1
+        },
+        "2022-06-03": {
+          "isMarked": true,
+          "color": "#5cee33",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 2
+        },
+        "2022-06-04": {
+          "isMarked": true,
+          "color": "#37d40b",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 3
+        },
+        "2022-06-05": {
+          "isMarked": true,
+          "color": "#2cb905",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 4
+        },
+        "2022-06-07": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 1
+        },
+        "2022-06-08": {
+          "isMarked": true,
+          "color": "#5cee33",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 2
+        },
+        "2022-06-09": {
+          "isMarked": true,
+          "color": "#37d40b",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 3
+        },
+        "2022-06-10": {
+          "isMarked": true,
+          "color": "#2cb905",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 4
+        },
+        "2022-06-11": {
+          "isMarked": true,
+          "color": "#259f03",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 5
+        },
+        "2022-06-12": {
+          "isMarked": true,
+          "color": "#208504",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 6
+        },
+        "2022-06-13": {
+          "isMarked": true,
+          "color": "#1a6c04",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 7
+        },
+        "2022-06-14": {
+          "isMarked": true,
+          "color": "#155403",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 8
+        },
+        "2022-06-15": {
+          "isMarked": true,
+          "color": "#0e3e01",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 9
+        },
+        "2022-06-18": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 1
+        },
+        "2022-06-22": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 1
+        },
+        "2022-06-23": {
+          "isMarked": true,
+          "color": "#5cee33",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 2
+        },
+        "2022-06-25": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 1
+        },
+        "2022-06-26": {
+          "isMarked": true,
+          "color": "#60f037",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 2
+        },
+        "2022-06-27": {
+          "isMarked": true,
+          "color": "#3ed913",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 3
+        },
+        "2022-06-28": {
+          "isMarked": true,
+          "color": "#2dc104",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 4
+        },
+        "2022-06-29": {
+          "isMarked": true,
+          "color": "#28a904",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 5
+        },
+        "2022-06-30": {
+          "isMarked": true,
+          "color": "#229203",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 6
+        },
+        "2022-07-01": {
+          "isMarked": true,
+          "color": "#1e7b04",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 7
+        },
+        "2022-07-02": {
+          "isSkip": true,
+          "color": "#1e7b04",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 7
+        },
+        "2022-07-03": {
+          "isSkip": true,
+          "color": "#1e7b04",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 7
+        },
+        "2022-07-04": {
+          "isMarked": true,
+          "color": "#186504",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 8
+        },
+        "2022-07-05": {
+          "isMarked": true,
+          "color": "#145003",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 9
+        },
+        "2022-07-06": {
+          "isMarked": true,
+          "color": "#0e3b01",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 10
+        },
+        "2022-07-07": {
+          "isMarked": true,
+          "color": "#092801",
+          "lastColorStreak": "#2dc104",
+          "totalStreak": 4,
+          "positionInStreak": 11
+        },
+        "2022-07-09": {
+          "isSkip": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 0
+        },
+        "2022-07-10": {
+          "isSkip": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 0
+        },
+        "2022-07-11": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 1
+        },
+        "2022-07-12": {
+          "isMarked": true,
+          "color": "#70fb49",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 2
+        },
+        "2022-07-13": {
+          "isMarked": true,
+          "color": "#60f037",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 3
+        },
+        "2022-07-14": {
+          "isMarked": true,
+          "color": "#4fe525",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 4
+        },
+        "2022-07-15": {
+          "isMarked": true,
+          "color": "#3ed913",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 5
+        },
+        "2022-07-16": {
+          "isMarked": true,
+          "color": "#2fce03",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 6
+        },
+        "2022-07-17": {
+          "isSkip": true,
+          "color": "#2fce03",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 6
+        },
+        "2022-07-18": {
+          "isMarked": true,
+          "color": "#2dc104",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 7
+        },
+        "2022-07-19": {
+          "isMarked": true,
+          "color": "#2bb505",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 8
+        },
+        "2022-07-20": {
+          "isMarked": true,
+          "color": "#28a904",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 9
+        },
+        "2022-07-21": {
+          "isMarked": true,
+          "color": "#249e03",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 10
+        },
+        "2022-07-22": {
+          "isMarked": true,
+          "color": "#229203",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 11
+        },
+        "2022-07-23": {
+          "isMarked": true,
+          "color": "#208604",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 12
+        },
+        "2022-07-24": {
+          "isMarked": true,
+          "color": "#1e7b04",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 13
+        },
+        "2022-07-25": {
+          "isMarked": true,
+          "color": "#1b7004",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 14
+        },
+        "2022-07-26": {
+          "isMarked": true,
+          "color": "#186504",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 15
+        },
+        "2022-07-27": {
+          "isMarked": true,
+          "color": "#165a03",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 16
+        },
+        "2022-07-28": {
+          "isMarked": true,
+          "color": "#145003",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 17
+        },
+        "2022-07-29": {
+          "isMarked": true,
+          "color": "#114502",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 18
+        },
+        "2022-07-30": {
+          "isMarked": true,
+          "color": "#0e3b01",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 19
+        },
+        "2022-07-31": {
+          "isMarked": true,
+          "color": "#0b3201",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 20
+        },
+        "2022-08-01": {
+          "isMarked": true,
+          "color": "#092801",
+          "lastColorStreak": "#4fe525",
+          "totalStreak": 4,
+          "positionInStreak": 21
+        }
+      }
+    },
+    {
+      "name": "Water Jug + Coffee",
+      "description": null,
+      "archived": null,
+      "time": null,
+      "color": "green",
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": true,
+      "sunday": true,
+      "dates": {
+        "2022-06-13": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 1
+        },
+        "2022-06-15": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 1
+        },
+        "2022-06-16": {
+          "isMarked": true,
+          "color": "#5cee33",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 2
+        },
+        "2022-06-17": {
+          "isMarked": true,
+          "color": "#37d40b",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 3
+        },
+        "2022-06-18": {
+          "isMarked": true,
+          "color": "#2cb905",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 4
+        },
+        "2022-06-19": {
+          "isMarked": true,
+          "color": "#259f03",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 5
+        },
+        "2022-06-20": {
+          "isMarked": true,
+          "color": "#208504",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 6
+        },
+        "2022-06-21": {
+          "isMarked": true,
+          "color": "#1a6c04",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 7
+        },
+        "2022-06-22": {
+          "isMarked": true,
+          "color": "#155403",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 8
+        },
+        "2022-06-23": {
+          "isMarked": true,
+          "color": "#0e3e01",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 9
+        },
+        "2022-06-25": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 1
+        },
+        "2022-06-26": {
+          "isMarked": true,
+          "color": "#63f23b",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 2
+        },
+        "2022-06-27": {
+          "isMarked": true,
+          "color": "#44de1a",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 3
+        },
+        "2022-06-28": {
+          "isMarked": true,
+          "color": "#2ec803",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 4
+        },
+        "2022-06-29": {
+          "isMarked": true,
+          "color": "#2bb205",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 5
+        },
+        "2022-06-30": {
+          "isMarked": true,
+          "color": "#249c03",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 6
+        },
+        "2022-07-01": {
+          "isMarked": true,
+          "color": "#208704",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 7
+        },
+        "2022-07-02": {
+          "isSkip": true,
+          "color": "#208704",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 7
+        },
+        "2022-07-03": {
+          "isSkip": true,
+          "color": "#208704",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 7
+        },
+        "2022-07-04": {
+          "isMarked": true,
+          "color": "#1c7304",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 8
+        },
+        "2022-07-05": {
+          "isMarked": true,
+          "color": "#175f04",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 9
+        },
+        "2022-07-06": {
+          "isMarked": true,
+          "color": "#134c03",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 10
+        },
+        "2022-07-07": {
+          "isMarked": true,
+          "color": "#0d3a01",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 11
+        },
+        "2022-07-08": {
+          "isMarked": true,
+          "color": "#092801",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 12
+        },
+        "2022-07-10": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 1
+        },
+        "2022-07-11": {
+          "isMarked": true,
+          "color": "#7dfc5a",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 2
+        },
+        "2022-07-12": {
+          "isMarked": true,
+          "color": "#66f53e",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 3
+        },
+        "2022-07-13": {
+          "isMarked": true,
+          "color": "#59ec30",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 4
+        },
+        "2022-07-14": {
+          "isMarked": true,
+          "color": "#4ce322",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 5
+        },
+        "2022-07-15": {
+          "isMarked": true,
+          "color": "#3ed913",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 6
+        },
+        "2022-07-16": {
+          "isMarked": true,
+          "color": "#31d005",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 7
+        },
+        "2022-07-17": {
+          "isMarked": true,
+          "color": "#2ec604",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 8
+        },
+        "2022-07-18": {
+          "isMarked": true,
+          "color": "#2cbd04",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 9
+        },
+        "2022-07-19": {
+          "isMarked": true,
+          "color": "#2bb305",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 10
+        },
+        "2022-07-20": {
+          "isMarked": true,
+          "color": "#28a904",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 11
+        },
+        "2022-07-21": {
+          "isMarked": true,
+          "color": "#25a003",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 12
+        },
+        "2022-07-22": {
+          "isMarked": true,
+          "color": "#239703",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 13
+        },
+        "2022-07-23": {
+          "isMarked": true,
+          "color": "#218d04",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 14
+        },
+        "2022-07-24": {
+          "isMarked": true,
+          "color": "#208404",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 15
+        },
+        "2022-07-25": {
+          "isMarked": true,
+          "color": "#1e7b04",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 16
+        },
+        "2022-07-26": {
+          "isMarked": true,
+          "color": "#1b7204",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 17
+        },
+        "2022-07-27": {
+          "isMarked": true,
+          "color": "#196904",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 18
+        },
+        "2022-07-28": {
+          "isMarked": true,
+          "color": "#186104",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 19
+        },
+        "2022-07-29": {
+          "isMarked": true,
+          "color": "#165803",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 20
+        },
+        "2022-07-30": {
+          "isMarked": true,
+          "color": "#145003",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 21
+        },
+        "2022-07-31": {
+          "isMarked": true,
+          "color": "#124702",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 22
+        },
+        "2022-08-01": {
+          "isMarked": true,
+          "color": "#0f3f01",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 23
+        },
+        "2022-08-02": {
+          "isMarked": true,
+          "color": "#0d3701",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 24
+        },
+        "2022-08-03": {
+          "isMarked": true,
+          "color": "#0b3001",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 25
+        },
+        "2022-08-04": {
+          "isMarked": true,
+          "color": "#092801",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 26
+        }
+      }
+    },
+    {
+      "name": "Desk",
+      "description": null,
+      "archived": null,
+      "time": null,
+      "color": "green",
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": true,
+      "sunday": true,
+      "dates": {
+        "2022-06-13": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 1
+        },
+        "2022-06-15": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 1
+        },
+        "2022-06-19": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 1
+        },
+        "2022-06-21": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 1
+        },
+        "2022-06-23": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 1
+        },
+        "2022-06-25": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 1
+        },
+        "2022-06-26": {
+          "isMarked": true,
+          "color": "#93fd75",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 2
+        },
+        "2022-06-27": {
+          "isMarked": true,
+          "color": "#70fb49",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 3
+        },
+        "2022-06-28": {
+          "isMarked": true,
+          "color": "#68f640",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 4
+        },
+        "2022-06-29": {
+          "isMarked": true,
+          "color": "#60f037",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 5
+        },
+        "2022-06-30": {
+          "isMarked": true,
+          "color": "#57eb2e",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 6
+        },
+        "2022-07-01": {
+          "isMarked": true,
+          "color": "#4fe525",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 7
+        },
+        "2022-07-02": {
+          "isMarked": true,
+          "color": "#47df1c",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 8
+        },
+        "2022-07-03": {
+          "isMarked": true,
+          "color": "#3ed913",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 9
+        },
+        "2022-07-04": {
+          "isMarked": true,
+          "color": "#36d40a",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 10
+        },
+        "2022-07-05": {
+          "isMarked": true,
+          "color": "#2fce03",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 11
+        },
+        "2022-07-06": {
+          "isMarked": true,
+          "color": "#2ec804",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 12
+        },
+        "2022-07-07": {
+          "isMarked": true,
+          "color": "#2dc104",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 13
+        },
+        "2022-07-08": {
+          "isMarked": true,
+          "color": "#2cbb04",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 14
+        },
+        "2022-07-09": {
+          "isMarked": true,
+          "color": "#2bb505",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 15
+        },
+        "2022-07-10": {
+          "isMarked": true,
+          "color": "#2aaf05",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 16
+        },
+        "2022-07-11": {
+          "isMarked": true,
+          "color": "#28a904",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 17
+        },
+        "2022-07-12": {
+          "isMarked": true,
+          "color": "#26a304",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 18
+        },
+        "2022-07-13": {
+          "isMarked": true,
+          "color": "#249e03",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 19
+        },
+        "2022-07-14": {
+          "isMarked": true,
+          "color": "#239803",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 20
+        },
+        "2022-07-15": {
+          "isMarked": true,
+          "color": "#229203",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 21
+        },
+        "2022-07-16": {
+          "isMarked": true,
+          "color": "#218c04",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 22
+        },
+        "2022-07-17": {
+          "isMarked": true,
+          "color": "#208604",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 23
+        },
+        "2022-07-18": {
+          "isMarked": true,
+          "color": "#1f8104",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 24
+        },
+        "2022-07-19": {
+          "isMarked": true,
+          "color": "#1e7b04",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 25
+        },
+        "2022-07-20": {
+          "isMarked": true,
+          "color": "#1c7504",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 26
+        },
+        "2022-07-21": {
+          "isMarked": true,
+          "color": "#1b7004",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 27
+        },
+        "2022-07-22": {
+          "isMarked": true,
+          "color": "#1a6a04",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 28
+        },
+        "2022-07-23": {
+          "isMarked": true,
+          "color": "#186504",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 29
+        },
+        "2022-07-24": {
+          "isMarked": true,
+          "color": "#175f04",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 30
+        },
+        "2022-07-25": {
+          "isMarked": true,
+          "color": "#165a03",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 31
+        },
+        "2022-07-26": {
+          "isMarked": true,
+          "color": "#155503",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 32
+        },
+        "2022-07-27": {
+          "isMarked": true,
+          "color": "#145003",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 33
+        },
+        "2022-07-28": {
+          "isMarked": true,
+          "color": "#134a03",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 34
+        },
+        "2022-07-29": {
+          "isMarked": true,
+          "color": "#114502",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 35
+        },
+        "2022-07-30": {
+          "isMarked": true,
+          "color": "#0f4001",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 36
+        },
+        "2022-07-31": {
+          "isMarked": true,
+          "color": "#0e3b01",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 37
+        },
+        "2022-08-01": {
+          "isMarked": true,
+          "color": "#0d3601",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 38
+        },
+        "2022-08-02": {
+          "isMarked": true,
+          "color": "#0b3201",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 39
+        },
+        "2022-08-03": {
+          "isMarked": true,
+          "color": "#0a2d01",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 40
+        },
+        "2022-08-04": {
+          "isMarked": true,
+          "color": "#092801",
+          "lastColorStreak": "#b0fd9b",
+          "totalStreak": 1,
+          "positionInStreak": 41
+        }
+      }
+    },
+    {
+      "name": "Inbox 0",
+      "description": null,
+      "archived": null,
+      "time": null,
+      "color": "green",
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": true,
+      "sunday": true,
+      "dates": {
+        "2022-06-05": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 1
+        },
+        "2022-06-06": {
+          "isMarked": true,
+          "color": "#67f540",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 2
+        },
+        "2022-06-07": {
+          "isMarked": true,
+          "color": "#4ee424",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 3
+        },
+        "2022-06-08": {
+          "isMarked": true,
+          "color": "#34d208",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 4
+        },
+        "2022-06-09": {
+          "isMarked": true,
+          "color": "#2dc004",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 5
+        },
+        "2022-06-10": {
+          "isMarked": true,
+          "color": "#29ad04",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 6
+        },
+        "2022-06-11": {
+          "isMarked": true,
+          "color": "#249b03",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 7
+        },
+        "2022-06-12": {
+          "isMarked": true,
+          "color": "#208904",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 8
+        },
+        "2022-06-13": {
+          "isMarked": true,
+          "color": "#1d7804",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 9
+        },
+        "2022-06-14": {
+          "isMarked": true,
+          "color": "#196704",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 10
+        },
+        "2022-06-15": {
+          "isMarked": true,
+          "color": "#155603",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 11
+        },
+        "2022-06-16": {
+          "isMarked": true,
+          "color": "#114602",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 12
+        },
+        "2022-06-17": {
+          "isMarked": true,
+          "color": "#0d3701",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 13
+        },
+        "2022-06-18": {
+          "isMarked": true,
+          "color": "#092801",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 14
+        },
+        "2022-06-21": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 1
+        },
+        "2022-06-22": {
+          "isMarked": true,
+          "color": "#5cee33",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 2
+        },
+        "2022-06-23": {
+          "isMarked": true,
+          "color": "#37d40b",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 3
+        },
+        "2022-06-25": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 1
+        },
+        "2022-06-26": {
+          "isMarked": true,
+          "color": "#5cee33",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 2
+        },
+        "2022-06-27": {
+          "isMarked": true,
+          "color": "#37d40b",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 3
+        },
+        "2022-06-28": {
+          "isMarked": true,
+          "color": "#2cb905",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 4
+        },
+        "2022-06-29": {
+          "isMarked": true,
+          "color": "#259f03",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 5
+        },
+        "2022-06-30": {
+          "isMarked": true,
+          "color": "#208504",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 6
+        },
+        "2022-07-01": {
+          "isMarked": true,
+          "color": "#1a6c04",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 7
+        },
+        "2022-07-02": {
+          "isSkip": true,
+          "color": "#1a6c04",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 7
+        },
+        "2022-07-03": {
+          "isSkip": true,
+          "color": "#1a6c04",
+          "lastColorStreak": "#092801",
+          "totalStreak": 14,
+          "positionInStreak": 7
+        },
+        "2022-07-05": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 1
+        },
+        "2022-07-06": {
+          "isMarked": true,
+          "color": "#87fc67",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 2
+        },
+        "2022-07-07": {
+          "isMarked": true,
+          "color": "#6bf843",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 3
+        },
+        "2022-07-08": {
+          "isMarked": true,
+          "color": "#60f037",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 4
+        },
+        "2022-07-09": {
+          "isMarked": true,
+          "color": "#55e92b",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 5
+        },
+        "2022-07-10": {
+          "isMarked": true,
+          "color": "#49e11f",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 6
+        },
+        "2022-07-11": {
+          "isMarked": true,
+          "color": "#3ed913",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 7
+        },
+        "2022-07-12": {
+          "isMarked": true,
+          "color": "#33d207",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 8
+        },
+        "2022-07-13": {
+          "isMarked": true,
+          "color": "#2eca03",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 9
+        },
+        "2022-07-14": {
+          "isMarked": true,
+          "color": "#2dc104",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 10
+        },
+        "2022-07-15": {
+          "isMarked": true,
+          "color": "#2cb905",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 11
+        },
+        "2022-07-16": {
+          "isMarked": true,
+          "color": "#2ab105",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 12
+        },
+        "2022-07-17": {
+          "isMarked": true,
+          "color": "#28a904",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 13
+        },
+        "2022-07-18": {
+          "isMarked": true,
+          "color": "#26a103",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 14
+        },
+        "2022-07-19": {
+          "isMarked": true,
+          "color": "#249a03",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 15
+        },
+        "2022-07-20": {
+          "isMarked": true,
+          "color": "#229203",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 16
+        },
+        "2022-07-21": {
+          "isMarked": true,
+          "color": "#218a04",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 17
+        },
+        "2022-07-22": {
+          "isMarked": true,
+          "color": "#1f8304",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 18
+        },
+        "2022-07-23": {
+          "isMarked": true,
+          "color": "#1e7b04",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 19
+        },
+        "2022-07-24": {
+          "isMarked": true,
+          "color": "#1c7404",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 20
+        },
+        "2022-07-25": {
+          "isMarked": true,
+          "color": "#1a6c04",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 21
+        },
+        "2022-07-26": {
+          "isMarked": true,
+          "color": "#186504",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 22
+        },
+        "2022-07-27": {
+          "isMarked": true,
+          "color": "#175e04",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 23
+        },
+        "2022-07-28": {
+          "isMarked": true,
+          "color": "#165703",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 24
+        },
+        "2022-07-29": {
+          "isMarked": true,
+          "color": "#145003",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 25
+        },
+        "2022-07-30": {
+          "isMarked": true,
+          "color": "#124902",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 26
+        },
+        "2022-07-31": {
+          "isMarked": true,
+          "color": "#104202",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 27
+        },
+        "2022-08-01": {
+          "isMarked": true,
+          "color": "#0e3b01",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 28
+        },
+        "2022-08-02": {
+          "isMarked": true,
+          "color": "#0c3501",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 29
+        },
+        "2022-08-03": {
+          "isMarked": true,
+          "color": "#0b2e01",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 30
+        },
+        "2022-08-04": {
+          "isMarked": true,
+          "color": "#092801",
+          "lastColorStreak": "#26a103",
+          "totalStreak": 14,
+          "positionInStreak": 31
+        }
+      }
+    },
+    {
+      "name": "Walk Coco",
+      "description": null,
+      "archived": null,
+      "time": null,
+      "color": "green",
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": true,
+      "sunday": true,
+      "dates": {
+        "2022-07-11": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 1
+        },
+        "2022-07-12": {
+          "isMarked": true,
+          "color": "#7bfc56",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 2
+        },
+        "2022-07-13": {
+          "isMarked": true,
+          "color": "#65f43d",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 3
+        },
+        "2022-07-14": {
+          "isMarked": true,
+          "color": "#57eb2e",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 4
+        },
+        "2022-07-15": {
+          "isMarked": true,
+          "color": "#49e11f",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 5
+        },
+        "2022-07-16": {
+          "isMarked": true,
+          "color": "#3bd810",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 6
+        },
+        "2022-07-17": {
+          "isMarked": true,
+          "color": "#2fce03",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 7
+        },
+        "2022-07-18": {
+          "isMarked": true,
+          "color": "#2dc304",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 8
+        },
+        "2022-07-19": {
+          "isMarked": true,
+          "color": "#2cb905",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 9
+        },
+        "2022-07-20": {
+          "isMarked": true,
+          "color": "#2aaf05",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 10
+        },
+        "2022-07-21": {
+          "isMarked": true,
+          "color": "#27a504",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 11
+        },
+        "2022-07-22": {
+          "isMarked": true,
+          "color": "#249c03",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 12
+        },
+        "2022-07-23": {
+          "isMarked": true,
+          "color": "#229203",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 13
+        },
+        "2022-07-24": {
+          "isMarked": true,
+          "color": "#208804",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 14
+        },
+        "2022-07-25": {
+          "isMarked": true,
+          "color": "#1e7f04",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 15
+        },
+        "2022-07-26": {
+          "isMarked": true,
+          "color": "#1c7504",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 16
+        },
+        "2022-07-27": {
+          "isMarked": true,
+          "color": "#1a6c04",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 17
+        },
+        "2022-07-28": {
+          "isMarked": true,
+          "color": "#186304",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 18
+        },
+        "2022-07-29": {
+          "isMarked": true,
+          "color": "#165a03",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 19
+        },
+        "2022-07-30": {
+          "isMarked": true,
+          "color": "#145103",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 20
+        },
+        "2022-07-31": {
+          "isMarked": true,
+          "color": "#124902",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 21
+        },
+        "2022-08-01": {
+          "isMarked": true,
+          "color": "#0f4001",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 22
+        },
+        "2022-08-02": {
+          "isMarked": true,
+          "color": "#0d3801",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 23
+        },
+        "2022-08-03": {
+          "isMarked": true,
+          "color": "#0b3001",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 24
+        },
+        "2022-08-04": {
+          "isMarked": true,
+          "color": "#092801",
+          "lastColorStreak": "#092801",
+          "totalStreak": 25,
+          "positionInStreak": 25
+        }
+      }
+    },
+    {
+      "name": "Marijuana (no \"inappropriate\" use)",
+      "description": null,
+      "archived": null,
+      "time": null,
+      "color": "green",
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": true,
+      "sunday": true,
+      "dates": {
+        "2022-08-01": {
+          "isMarked": true,
+          "color": "#b0fd9b",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 1
+        },
+        "2022-08-02": {
+          "isMarked": true,
+          "color": "#5cee33",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 2
+        },
+        "2022-08-03": {
+          "isMarked": true,
+          "color": "#37d40b",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 3
+        },
+        "2022-08-04": {
+          "isMarked": true,
+          "color": "#2cb905",
+          "lastColorStreak": "#2cb905",
+          "totalStreak": 4,
+          "positionInStreak": 4
+        }
+      }
+    },
+    {
+      "name": "Alcohol (no \"inappropriate\" use)",
+      "description": null,
+      "archived": null,
+      "time": null,
+      "color": "red",
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": true,
+      "sunday": true,
+      "dates": {
+        "2022-04-25": {
+          "isMarked": true,
+          "color": "#4c0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 1
+        },
+        "2022-04-26": {
+          "isMarked": true,
+          "color": "#4f0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 2
+        },
+        "2022-04-27": {
+          "isMarked": true,
+          "color": "#510000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 3
+        },
+        "2022-04-28": {
+          "isMarked": true,
+          "color": "#540000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 4
+        },
+        "2022-04-29": {
+          "isMarked": true,
+          "color": "#570000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 5
+        },
+        "2022-04-30": {
+          "isMarked": true,
+          "color": "#590000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 6
+        },
+        "2022-05-01": {
+          "isMarked": true,
+          "color": "#5c0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 7
+        },
+        "2022-05-02": {
+          "isMarked": true,
+          "color": "#5f0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 8
+        },
+        "2022-05-03": {
+          "isMarked": true,
+          "color": "#620000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 9
+        },
+        "2022-05-04": {
+          "isMarked": true,
+          "color": "#640000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 10
+        },
+        "2022-05-05": {
+          "isMarked": true,
+          "color": "#670000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 11
+        },
+        "2022-05-06": {
+          "isMarked": true,
+          "color": "#6a0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 12
+        },
+        "2022-05-07": {
+          "isMarked": true,
+          "color": "#6d0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 13
+        },
+        "2022-05-08": {
+          "isMarked": true,
+          "color": "#700000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 14
+        },
+        "2022-05-09": {
+          "isMarked": true,
+          "color": "#720000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 15
+        },
+        "2022-05-10": {
+          "isMarked": true,
+          "color": "#750000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 16
+        },
+        "2022-05-11": {
+          "isMarked": true,
+          "color": "#780000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 17
+        },
+        "2022-05-12": {
+          "isMarked": true,
+          "color": "#7b0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 18
+        },
+        "2022-05-13": {
+          "isMarked": true,
+          "color": "#7e0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 19
+        },
+        "2022-05-14": {
+          "isMarked": true,
+          "color": "#810000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 20
+        },
+        "2022-05-15": {
+          "isMarked": true,
+          "color": "#840000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 21
+        },
+        "2022-05-16": {
+          "isMarked": true,
+          "color": "#870000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 22
+        },
+        "2022-05-17": {
+          "isMarked": true,
+          "color": "#890000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 23
+        },
+        "2022-05-18": {
+          "isMarked": true,
+          "color": "#8c0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 24
+        },
+        "2022-05-19": {
+          "isMarked": true,
+          "color": "#8f0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 25
+        },
+        "2022-05-20": {
+          "isMarked": true,
+          "color": "#920000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 26
+        },
+        "2022-05-21": {
+          "isMarked": true,
+          "color": "#950000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 27
+        },
+        "2022-05-22": {
+          "isMarked": true,
+          "color": "#980000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 28
+        },
+        "2022-05-23": {
+          "isMarked": true,
+          "color": "#9b0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 29
+        },
+        "2022-05-24": {
+          "isMarked": true,
+          "color": "#9e0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 30
+        },
+        "2022-05-25": {
+          "isMarked": true,
+          "color": "#a10000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 31
+        },
+        "2022-05-26": {
+          "isMarked": true,
+          "color": "#a40000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 32
+        },
+        "2022-05-27": {
+          "isMarked": true,
+          "color": "#a70000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 33
+        },
+        "2022-05-28": {
+          "isMarked": true,
+          "color": "#aa0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 34
+        },
+        "2022-05-29": {
+          "isMarked": true,
+          "color": "#ad0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 35
+        },
+        "2022-05-30": {
+          "isMarked": true,
+          "color": "#b00000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 36
+        },
+        "2022-05-31": {
+          "isMarked": true,
+          "color": "#b30000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 37
+        },
+        "2022-06-01": {
+          "isMarked": true,
+          "color": "#b70000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 38
+        },
+        "2022-06-02": {
+          "isMarked": true,
+          "color": "#ba0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 39
+        },
+        "2022-06-03": {
+          "isMarked": true,
+          "color": "#bd0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 40
+        },
+        "2022-06-04": {
+          "isMarked": true,
+          "color": "#c00000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 41
+        },
+        "2022-06-05": {
+          "isMarked": true,
+          "color": "#c30000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 42
+        },
+        "2022-06-06": {
+          "isMarked": true,
+          "color": "#c60000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 43
+        },
+        "2022-06-07": {
+          "isMarked": true,
+          "color": "#c90000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 44
+        },
+        "2022-06-08": {
+          "isMarked": true,
+          "color": "#cc0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 45
+        },
+        "2022-06-09": {
+          "isMarked": true,
+          "color": "#cf0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 46
+        },
+        "2022-06-10": {
+          "isMarked": true,
+          "color": "#d30000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 47
+        },
+        "2022-06-11": {
+          "isMarked": true,
+          "color": "#d60000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 48
+        },
+        "2022-06-12": {
+          "isMarked": true,
+          "color": "#d90000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 49
+        },
+        "2022-06-13": {
+          "isMarked": true,
+          "color": "#dc0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 50
+        },
+        "2022-06-14": {
+          "isMarked": true,
+          "color": "#df0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 51
+        },
+        "2022-06-15": {
+          "isMarked": true,
+          "color": "#e30000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 52
+        },
+        "2022-06-16": {
+          "isMarked": true,
+          "color": "#e60000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 53
+        },
+        "2022-06-17": {
+          "isMarked": true,
+          "color": "#e90000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 54
+        },
+        "2022-06-18": {
+          "isMarked": true,
+          "color": "#ec0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 55
+        },
+        "2022-06-19": {
+          "isMarked": true,
+          "color": "#f00000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 56
+        },
+        "2022-06-20": {
+          "isMarked": true,
+          "color": "#f30000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 57
+        },
+        "2022-06-21": {
+          "isMarked": true,
+          "color": "#f60000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 58
+        },
+        "2022-06-22": {
+          "isMarked": true,
+          "color": "#f90000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 59
+        },
+        "2022-06-23": {
+          "isMarked": true,
+          "color": "#fd0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 60
+        },
+        "2022-06-24": {
+          "isMarked": true,
+          "color": "#ff0707",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 61
+        },
+        "2022-06-25": {
+          "isMarked": true,
+          "color": "#ff1a1a",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 62
+        },
+        "2022-06-26": {
+          "isMarked": true,
+          "color": "#ff2525",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 63
+        },
+        "2022-06-27": {
+          "isMarked": true,
+          "color": "#ff2d2d",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 64
+        },
+        "2022-06-28": {
+          "isMarked": true,
+          "color": "#ff3535",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 65
+        },
+        "2022-06-29": {
+          "isMarked": true,
+          "color": "#ff3b3b",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 66
+        },
+        "2022-06-30": {
+          "isMarked": true,
+          "color": "#ff4141",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 67
+        },
+        "2022-07-01": {
+          "isMarked": true,
+          "color": "#ff4646",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 68
+        },
+        "2022-07-02": {
+          "isMarked": true,
+          "color": "#ff4b4b",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 69
+        },
+        "2022-07-03": {
+          "isMarked": true,
+          "color": "#ff5050",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 70
+        },
+        "2022-07-04": {
+          "isMarked": true,
+          "color": "#ff5454",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 71
+        },
+        "2022-07-05": {
+          "isMarked": true,
+          "color": "#ff5959",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 72
+        },
+        "2022-07-06": {
+          "isMarked": true,
+          "color": "#ff5d5d",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 73
+        },
+        "2022-07-07": {
+          "isMarked": true,
+          "color": "#ff6161",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 74
+        },
+        "2022-07-08": {
+          "isMarked": true,
+          "color": "#ff6565",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 75
+        },
+        "2022-07-09": {
+          "isMarked": true,
+          "color": "#ff6868",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 76
+        },
+        "2022-07-10": {
+          "isMarked": true,
+          "color": "#ff6c6c",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 77
+        },
+        "2022-07-11": {
+          "isMarked": true,
+          "color": "#ff7070",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 78
+        },
+        "2022-07-12": {
+          "isMarked": true,
+          "color": "#ff7373",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 79
+        },
+        "2022-07-13": {
+          "isMarked": true,
+          "color": "#ff7777",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 80
+        },
+        "2022-07-14": {
+          "isMarked": true,
+          "color": "#ff7a7a",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 81
+        },
+        "2022-07-15": {
+          "isMarked": true,
+          "color": "#ff7d7d",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 82
+        },
+        "2022-07-16": {
+          "isMarked": true,
+          "color": "#ff8080",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 83
+        },
+        "2022-07-17": {
+          "isMarked": true,
+          "color": "#ff8484",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 84
+        },
+        "2022-07-18": {
+          "isMarked": true,
+          "color": "#ff8787",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 85
+        },
+        "2022-07-19": {
+          "isMarked": true,
+          "color": "#ff8a8a",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 86
+        },
+        "2022-07-20": {
+          "isMarked": true,
+          "color": "#ff8d8d",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 87
+        },
+        "2022-07-21": {
+          "isMarked": true,
+          "color": "#ff9090",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 88
+        },
+        "2022-07-22": {
+          "isMarked": true,
+          "color": "#ff9393",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 89
+        },
+        "2022-07-23": {
+          "isMarked": true,
+          "color": "#ff9696",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 90
+        },
+        "2022-07-24": {
+          "isMarked": true,
+          "color": "#ff9999",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 91
+        },
+        "2022-07-25": {
+          "isMarked": true,
+          "color": "#ff9c9c",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 92
+        },
+        "2022-07-26": {
+          "isMarked": true,
+          "color": "#ff9e9e",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 93
+        },
+        "2022-07-27": {
+          "isMarked": true,
+          "color": "#ffa1a1",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 94
+        },
+        "2022-07-28": {
+          "isMarked": true,
+          "color": "#ffa4a4",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 95
+        },
+        "2022-07-29": {
+          "isMarked": true,
+          "color": "#ffa7a7",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 96
+        },
+        "2022-07-30": {
+          "isMarked": true,
+          "color": "#ffaaaa",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 97
+        },
+        "2022-07-31": {
+          "isMarked": true,
+          "color": "#ffacac",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 98
+        },
+        "2022-08-01": {
+          "isSkip": true,
+          "color": "#ffacac",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 98
+        },
+        "2022-08-02": {
+          "isSkip": true,
+          "color": "#ffacac",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 98
+        },
+        "2022-08-03": {
+          "isMarked": true,
+          "color": "#ffafaf",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 99
+        },
+        "2022-08-04": {
+          "isMarked": true,
+          "color": "#ffb2b2",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 100,
+          "positionInStreak": 100
+        }
+      }
+    },
+    {
+      "name": "Video Games (no \"inappropriate\" use)",
+      "description": null,
+      "archived": null,
+      "time": null,
+      "color": "red",
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": true,
+      "sunday": true,
+      "dates": {
+        "2022-04-25": {
+          "isMarked": true,
+          "color": "#4c0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 1
+        },
+        "2022-04-26": {
+          "isMarked": true,
+          "color": "#4f0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 2
+        },
+        "2022-04-27": {
+          "isMarked": true,
+          "color": "#510000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 3
+        },
+        "2022-04-28": {
+          "isMarked": true,
+          "color": "#540000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 4
+        },
+        "2022-04-29": {
+          "isMarked": true,
+          "color": "#570000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 5
+        },
+        "2022-04-30": {
+          "isMarked": true,
+          "color": "#590000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 6
+        },
+        "2022-05-01": {
+          "isMarked": true,
+          "color": "#5c0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 7
+        },
+        "2022-05-02": {
+          "isMarked": true,
+          "color": "#5f0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 8
+        },
+        "2022-05-03": {
+          "isMarked": true,
+          "color": "#610000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 9
+        },
+        "2022-05-04": {
+          "isMarked": true,
+          "color": "#640000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 10
+        },
+        "2022-05-05": {
+          "isMarked": true,
+          "color": "#670000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 11
+        },
+        "2022-05-06": {
+          "isMarked": true,
+          "color": "#6a0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 12
+        },
+        "2022-05-07": {
+          "isMarked": true,
+          "color": "#6c0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 13
+        },
+        "2022-05-08": {
+          "isMarked": true,
+          "color": "#6f0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 14
+        },
+        "2022-05-09": {
+          "isMarked": true,
+          "color": "#720000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 15
+        },
+        "2022-05-10": {
+          "isMarked": true,
+          "color": "#750000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 16
+        },
+        "2022-05-11": {
+          "isMarked": true,
+          "color": "#780000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 17
+        },
+        "2022-05-12": {
+          "isMarked": true,
+          "color": "#7a0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 18
+        },
+        "2022-05-13": {
+          "isMarked": true,
+          "color": "#7d0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 19
+        },
+        "2022-05-14": {
+          "isMarked": true,
+          "color": "#800000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 20
+        },
+        "2022-05-15": {
+          "isMarked": true,
+          "color": "#830000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 21
+        },
+        "2022-05-16": {
+          "isMarked": true,
+          "color": "#860000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 22
+        },
+        "2022-05-17": {
+          "isMarked": true,
+          "color": "#890000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 23
+        },
+        "2022-05-18": {
+          "isMarked": true,
+          "color": "#8c0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 24
+        },
+        "2022-05-19": {
+          "isMarked": true,
+          "color": "#8f0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 25
+        },
+        "2022-05-20": {
+          "isMarked": true,
+          "color": "#910000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 26
+        },
+        "2022-05-21": {
+          "isMarked": true,
+          "color": "#940000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 27
+        },
+        "2022-05-22": {
+          "isMarked": true,
+          "color": "#970000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 28
+        },
+        "2022-05-23": {
+          "isMarked": true,
+          "color": "#9a0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 29
+        },
+        "2022-05-24": {
+          "isMarked": true,
+          "color": "#9d0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 30
+        },
+        "2022-05-25": {
+          "isMarked": true,
+          "color": "#a00000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 31
+        },
+        "2022-05-26": {
+          "isMarked": true,
+          "color": "#a30000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 32
+        },
+        "2022-05-27": {
+          "isMarked": true,
+          "color": "#a60000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 33
+        },
+        "2022-05-28": {
+          "isMarked": true,
+          "color": "#a90000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 34
+        },
+        "2022-05-29": {
+          "isMarked": true,
+          "color": "#ac0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 35
+        },
+        "2022-05-30": {
+          "isMarked": true,
+          "color": "#af0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 36
+        },
+        "2022-05-31": {
+          "isMarked": true,
+          "color": "#b20000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 37
+        },
+        "2022-06-01": {
+          "isMarked": true,
+          "color": "#b50000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 38
+        },
+        "2022-06-02": {
+          "isMarked": true,
+          "color": "#b80000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 39
+        },
+        "2022-06-03": {
+          "isMarked": true,
+          "color": "#bb0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 40
+        },
+        "2022-06-04": {
+          "isMarked": true,
+          "color": "#bf0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 41
+        },
+        "2022-06-05": {
+          "isMarked": true,
+          "color": "#c20000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 42
+        },
+        "2022-06-06": {
+          "isMarked": true,
+          "color": "#c50000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 43
+        },
+        "2022-06-07": {
+          "isMarked": true,
+          "color": "#c80000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 44
+        },
+        "2022-06-08": {
+          "isMarked": true,
+          "color": "#cb0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 45
+        },
+        "2022-06-09": {
+          "isMarked": true,
+          "color": "#ce0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 46
+        },
+        "2022-06-10": {
+          "isMarked": true,
+          "color": "#d10000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 47
+        },
+        "2022-06-11": {
+          "isMarked": true,
+          "color": "#d40000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 48
+        },
+        "2022-06-12": {
+          "isMarked": true,
+          "color": "#d70000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 49
+        },
+        "2022-06-13": {
+          "isMarked": true,
+          "color": "#db0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 50
+        },
+        "2022-06-14": {
+          "isMarked": true,
+          "color": "#de0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 51
+        },
+        "2022-06-15": {
+          "isMarked": true,
+          "color": "#e10000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 52
+        },
+        "2022-06-16": {
+          "isMarked": true,
+          "color": "#e40000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 53
+        },
+        "2022-06-17": {
+          "isMarked": true,
+          "color": "#e70000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 54
+        },
+        "2022-06-18": {
+          "isMarked": true,
+          "color": "#eb0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 55
+        },
+        "2022-06-19": {
+          "isMarked": true,
+          "color": "#ee0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 56
+        },
+        "2022-06-20": {
+          "isMarked": true,
+          "color": "#f10000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 57
+        },
+        "2022-06-21": {
+          "isMarked": true,
+          "color": "#f40000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 58
+        },
+        "2022-06-22": {
+          "isMarked": true,
+          "color": "#f70000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 59
+        },
+        "2022-06-23": {
+          "isMarked": true,
+          "color": "#fb0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 60
+        },
+        "2022-06-24": {
+          "isMarked": true,
+          "color": "#fe0000",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 61
+        },
+        "2022-06-25": {
+          "isMarked": true,
+          "color": "#ff1010",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 62
+        },
+        "2022-06-26": {
+          "isMarked": true,
+          "color": "#ff1e1e",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 63
+        },
+        "2022-06-27": {
+          "isMarked": true,
+          "color": "#ff2828",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 64
+        },
+        "2022-06-28": {
+          "isMarked": true,
+          "color": "#ff3030",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 65
+        },
+        "2022-06-29": {
+          "isMarked": true,
+          "color": "#ff3737",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 66
+        },
+        "2022-06-30": {
+          "isMarked": true,
+          "color": "#ff3d3d",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 67
+        },
+        "2022-07-01": {
+          "isMarked": true,
+          "color": "#ff4343",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 68
+        },
+        "2022-07-02": {
+          "isMarked": true,
+          "color": "#ff4848",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 69
+        },
+        "2022-07-03": {
+          "isMarked": true,
+          "color": "#ff4d4d",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 70
+        },
+        "2022-07-04": {
+          "isMarked": true,
+          "color": "#ff5151",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 71
+        },
+        "2022-07-05": {
+          "isMarked": true,
+          "color": "#ff5656",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 72
+        },
+        "2022-07-06": {
+          "isMarked": true,
+          "color": "#ff5a5a",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 73
+        },
+        "2022-07-07": {
+          "isMarked": true,
+          "color": "#ff5e5e",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 74
+        },
+        "2022-07-08": {
+          "isMarked": true,
+          "color": "#ff6262",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 75
+        },
+        "2022-07-09": {
+          "isMarked": true,
+          "color": "#ff6666",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 76
+        },
+        "2022-07-10": {
+          "isMarked": true,
+          "color": "#ff6969",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 77
+        },
+        "2022-07-11": {
+          "isMarked": true,
+          "color": "#ff6d6d",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 78
+        },
+        "2022-07-12": {
+          "isMarked": true,
+          "color": "#ff7070",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 79
+        },
+        "2022-07-13": {
+          "isMarked": true,
+          "color": "#ff7474",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 80
+        },
+        "2022-07-14": {
+          "isMarked": true,
+          "color": "#ff7777",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 81
+        },
+        "2022-07-15": {
+          "isMarked": true,
+          "color": "#ff7a7a",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 82
+        },
+        "2022-07-16": {
+          "isMarked": true,
+          "color": "#ff7e7e",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 83
+        },
+        "2022-07-17": {
+          "isMarked": true,
+          "color": "#ff8181",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 84
+        },
+        "2022-07-18": {
+          "isMarked": true,
+          "color": "#ff8484",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 85
+        },
+        "2022-07-19": {
+          "isMarked": true,
+          "color": "#ff8787",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 86
+        },
+        "2022-07-20": {
+          "isMarked": true,
+          "color": "#ff8a8a",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 87
+        },
+        "2022-07-21": {
+          "isMarked": true,
+          "color": "#ff8d8d",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 88
+        },
+        "2022-07-22": {
+          "isMarked": true,
+          "color": "#ff9090",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 89
+        },
+        "2022-07-23": {
+          "isSkip": true,
+          "color": "#ff9090",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 89
+        },
+        "2022-07-24": {
+          "isMarked": true,
+          "color": "#ff9393",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 90
+        },
+        "2022-07-25": {
+          "isMarked": true,
+          "color": "#ff9696",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 91
+        },
+        "2022-07-26": {
+          "isMarked": true,
+          "color": "#ff9999",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 92
+        },
+        "2022-07-27": {
+          "isMarked": true,
+          "color": "#ff9c9c",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 93
+        },
+        "2022-07-28": {
+          "isMarked": true,
+          "color": "#ff9f9f",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 94
+        },
+        "2022-07-29": {
+          "isMarked": true,
+          "color": "#ffa2a2",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 95
+        },
+        "2022-07-30": {
+          "isMarked": true,
+          "color": "#ffa4a4",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 96
+        },
+        "2022-07-31": {
+          "isMarked": true,
+          "color": "#ffa7a7",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 97
+        },
+        "2022-08-01": {
+          "isMarked": true,
+          "color": "#ffaaaa",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 98
+        },
+        "2022-08-02": {
+          "isMarked": true,
+          "color": "#ffadad",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 99
+        },
+        "2022-08-03": {
+          "isMarked": true,
+          "color": "#ffafaf",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 100
+        },
+        "2022-08-04": {
+          "isMarked": true,
+          "color": "#ffb2b2",
+          "lastColorStreak": "#ffb2b2",
+          "totalStreak": 101,
+          "positionInStreak": 101
+        }
+      }
+    }
+  ]
+}
