@@ -1,7 +1,32 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@data/*": [
+        "data/*"
+      ],
+      "@lib/*": [
+        "lib/*"
+      ],
+      "@utils/*": [
+        "utils/*"
+      ],
+      "@components/*": [
+        "components/*"
+      ],
+      "@features/*": [
+        "features/*"
+      ],
+      "@middleware/*": [
+        "lib/nextAuth/middleware/*"
+      ],
+    },
     "target": "es5",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -15,6 +40,14 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
-  "exclude": ["node_modules"]
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "components/Box.jsx",
+    "components/OrbitControls.jsx"
+, "components/ErixThrees/Primitives/Floor.jsx", "components/ErixThrees/Primitives/Ball.jsx", "components/ErixThrees/ThreeContainer.jsx", "components/ErixThrees/Scenes/Minecraft/index.jsx", "pages/d.jsx", "components/ErixThrees/Minecraft/Prefabs/Player/Camera.jsx"  ],
+  "exclude": [
+    "node_modules"
+  ]
 }
