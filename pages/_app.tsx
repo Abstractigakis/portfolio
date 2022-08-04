@@ -1,9 +1,10 @@
-import "../styles/globals.css";
 import type { AppProps } from "next/app";
+import Head from "next/head";
+import "../styles/globals.css";
+
 import { AnimatePresence } from "framer-motion";
 import Layout from "@components/Layout";
-
-import Head from "next/head";
+import PageLoading from "@components/PageLoading";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -11,6 +12,8 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <title>abstractigakis.io</title>
       </Head>
+      <PageLoading />
+
       <Layout>
         <Component {...pageProps} />
       </Layout>

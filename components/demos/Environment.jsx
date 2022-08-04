@@ -16,7 +16,7 @@ const EnvironmentExample = () => {
   const ballRef = useRef(null);
 
   return (
-    <Canvas shadows className="absolute inset-0">
+    <Canvas shadows>
       <Suspense fallback={null}>
         <OrbitControls
           ref={orbitControlsRef}

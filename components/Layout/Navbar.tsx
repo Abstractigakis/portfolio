@@ -2,7 +2,7 @@ import NextLink from "next/link";
 
 const Navbar = () => {
   return (
-    <div className="navbar bg-base-100 sticky inset-0">
+    <div className="navbar bg-base-100 sticky inset-0 z-0">
       <NextLink href={"/"}>
         <a className="btn btn-ghost normal-case text-xl">Abstractigakis</a>
       </NextLink>
