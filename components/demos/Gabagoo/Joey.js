@@ -11,7 +11,6 @@ export default function Model({ ...props }) {
   const { actions } = useAnimations(animations, group);
 
   useEffect(() => {
-    console.log({ actions });
     actions["Armature|mixamo.com|Layer0.001"].play(); // find this in blender
   }, []);
 

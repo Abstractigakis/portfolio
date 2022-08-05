@@ -4,12 +4,14 @@ import Joey from "./Joey";
 
 const Gabagoo = () => {
   return (
-    <Canvas>
-      <Suspense fallback={<p>loading...</p>}>
-        <ambientLight intensity={0.3} />
-        <Joey />
-      </Suspense>
-    </Canvas>
+    <div className="w-screen h-screen">
+      <Canvas>
+        <Suspense fallback={null}>
+          <ambientLight intensity={0.3} />
+          <Joey />
+        </Suspense>
+      </Canvas>
+    </div>
   );
 };
 

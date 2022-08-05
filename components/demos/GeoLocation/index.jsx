@@ -10,27 +10,33 @@ const GeoLocation = () => {
   const orbitControlsRef = useRef(null);
   const userLocation = useGeolocation();
   return (
-    <Canvas>
-      <Suspense fallback={null}>
-        <Stars
-          radius={500}
-          count={5000}
-          factor={50}
-          saturation={100}
-          fade
-          speed={4}
-        />
-        <pointLight position={[10, 5, 10]} />
-        <Earth
-          planeLocation={
-            userLocation.status === "done"
-              ? { ...userLocation }
-              : { lat: 0, lon: 0 }
-          }
-        />
-        <OrbitControls ref={orbitControlsRef} target={[0, 0, 0]} />
-      </Suspense>
-    </Canvas>
+    <div className="absolute inset-0 w-screen h-screen">
+      <p className="absolute bottom-0 right-0 h-32 w-32 z-10 text-amber-500">
+        Click to zoom in on your current location
+      </p>
+
+      <Canvas>
+        <Suspense fallback={null}>
+          <Stars
+            radius={500}
+            count={5000}
+            factor={50}
+            saturation={100}
+            fade
+            speed={4}
+          />
+          <pointLight position={[10, 5, 10]} />
+          <Earth
+            planeLocation={
+              userLocation.status === "done"
+                ? { ...userLocation }
+                : { lat: 0, lon: 0 }
+            }
+          />
+          <OrbitControls ref={orbitControlsRef} target={[0, 0, 0]} />
+        </Suspense>
+      </Canvas>
+    </div>
   );
 };
 

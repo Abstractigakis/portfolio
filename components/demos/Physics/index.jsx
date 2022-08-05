@@ -12,30 +12,32 @@ import { Environment } from "@react-three/drei";
 
 const GetTheBallRolling = () => {
   return (
-    <Canvas shadows className="absolute inset-0">
-      <Suspense fallback={null}>
-        <Physics>
-          <Debug color="black" scale={1.1}>
-            <ambientLight args={["#ffffff", 0.25]} />
-            <spotLight
-              args={["#ffffff", 1.5, 7, angleToRadians(45), 0.4]}
-              position={[-3, 1, 0]}
-              castShadow
-            />
+    <div className="w-screen h-screen">
+      <Canvas shadows className="absolute inset-0">
+        <Suspense fallback={null}>
+          <Physics>
+            <Debug color="black" scale={1.1}>
+              <ambientLight args={["#ffffff", 0.25]} />
+              <spotLight
+                args={["#ffffff", 1.5, 7, angleToRadians(45), 0.4]}
+                position={[-3, 1, 0]}
+                castShadow
+              />
 
-            <Floor />
-            <Ball />
+              <Floor />
+              <Ball />
 
-            <Environment background>
-              <mesh>
-                <sphereGeometry args={[50, 100, 100]} />
-                <meshBasicMaterial color="#ff0000" side={THREE.BackSide} />
-              </mesh>
-            </Environment>
-          </Debug>
-        </Physics>
-      </Suspense>
-    </Canvas>
+              <Environment background>
+                <mesh>
+                  <sphereGeometry args={[50, 100, 100]} />
+                  <meshBasicMaterial color="#ff0000" side={THREE.BackSide} />
+                </mesh>
+              </Environment>
+            </Debug>
+          </Physics>
+        </Suspense>
+      </Canvas>
+    </div>
   );
 };
 
