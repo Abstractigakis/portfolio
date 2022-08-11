@@ -8,7 +8,7 @@ export interface ILayoutProps {
 
 const Layout: FC<ILayoutProps> = ({ children }) => {
   return (
-    <div className={``}>
+    <div className="h-screen bg-bg text-txt">
       <Navbar />
       {children}
       {/* <Toaster /> */}

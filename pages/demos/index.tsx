@@ -57,11 +57,11 @@ const DemosPage: NextPage = () => {
       <h1 className="m-4 p-4 text-3xl mx-auto text-center">
         3d Programming Demos in the browser
       </h1>
-      <div className="absolute container mx-auto">
+      <div className="absolute container mx-auto ">
         <div className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1">
           {demos.map(({ title, url, imgsrc, description }: ICardLink) => (
             <div className="m-2 flex justify-center" key={title}>
-              <div className="card w-96 bg-base-100 shadow-xl image-full">
+              <div className="w-96 bg-base-100 shadow-xl image-full">
                 <figure>
                   <NextImage
                     src={imgsrc}
@@ -70,12 +70,12 @@ const DemosPage: NextPage = () => {
                     alt={title}
                   />
                 </figure>
-                <div className="card-body">
-                  <h2 className="card-title">{title}</h2>
+                <div className="">
+                  <h2 className="">{title}</h2>
                   <p>{description}</p>
-                  <div className="card-actions justify-end">
+                  <div className="justify-end">
                     <NextLink href={url}>
-                      <a className="btn btn-primary normal-case">View</a>
+                      <a className="">View</a>
                     </NextLink>
                   </div>
                 </div>

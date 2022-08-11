@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <title>abstractigakis.io</title>
       </Head>
-      <PageLoading />
+      {/* <PageLoading /> */}
 
       <Layout>
         <Component {...pageProps} />

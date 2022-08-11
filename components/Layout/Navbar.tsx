@@ -1,12 +1,20 @@
 import NextLink from "next/link";
+import { HiMenu } from "react-icons/hi";
 
 const Navbar = () => {
   return (
-    <div className="navbar bg-base-100 sticky inset-0 z-10">
-      <NextLink href={"/"}>
-        <a className="btn btn-ghost normal-case text-xl">Abstractigakis</a>
-      </NextLink>
-    </div>
+    <>
+      <div className="flex justify-between">
+        <div className="p-2 m-2 rounded-xl text-3xl hover:bg-bgHover transition-all ease-in-out duration-300">
+          <NextLink href={"/"}>
+            <a>Abstractigakis</a>
+          </NextLink>
+        </div>
+        <div className="p-2 m-2 rounded-xl hover:bg-bgHover transition-all ease-in-out duration-300">
+          <HiMenu size={36} />
+        </div>
+      </div>
+    </>
   );
 };
 

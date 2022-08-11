@@ -1,4 +1,4 @@
-// const colors = require("tailwindcss/colors");
+const colors = require("tailwindcss/colors");
 
 module.exports = {
   mode: "jit",
@@ -7,7 +7,13 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primo: "#ff0000",
+        txt: "#181818",
+        bg: "#ffffff",
+        bgHover: "#ff0000",
+      },
+    },
   },
-  plugins: [require("daisyui")],
 };
