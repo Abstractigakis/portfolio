@@ -7,7 +7,7 @@ const Navbar = () => {
         <NextLink href={"/"}>
           <div className="flex hover:cursor-pointer">
             <div className="rounded-xl m-2 p-2 transition-all duration-700 ease-in-out hover:bg-bh hover:translate-x-2 hover:shadow-2xl">
-              <div className="font-extrabold text-3xl bg-gradient-to-bl from-gs via-gm to-ge text-transparent bg-clip-text">
+              <div className="font-extrabold text-3xl bg-gradient-to-r from-gs via-gm to-ge text-transparent bg-clip-text">
                 ABSTRACTIGAKIS
               </div>
             </div>
@@ -15,7 +15,7 @@ const Navbar = () => {
         </NextLink>
         <div className="flex hover:cursor-pointer">
           <div className="rounded-xl m-2 p-2 transition-all duration-700 ease-in-out hover:bg-bh hover:-translate-x-2 hover:shadow-2xl">
-            <div className="font-extrabold text-3xl bg-gradient-to-bl from-gs via-gm to-ge text-transparent bg-clip-text">
+            <div className="font-extrabold text-3xl bg-gradient-to-l from-gs via-gm to-ge text-transparent bg-clip-text">
               MENU
             </div>
           </div>

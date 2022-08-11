@@ -15,7 +15,7 @@ module.exports = {
         bs: "#015cda",
         // bh: "#01a0da",
         bh: "#1e093b",
-        bg: "#2dd4bf",
+        bg: "#ffffdd",
       },
     },
   },
