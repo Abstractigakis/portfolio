@@ -1,5 +1,3 @@
-const colors = require("tailwindcss/colors");
-
 module.exports = {
   mode: "jit",
   content: [
@@ -11,8 +9,11 @@ module.exports = {
       colors: {
         primo: "#ff0000",
         txt: "#181818",
-        bg: "#ffffff",
-        bgHover: "#ff0000",
+        gs: "#e56600",
+        gm: "#feaf17",
+        ge: "#fcc713",
+        bs: "#1e093b",
+        bh: "#015cda",
       },
     },
   },

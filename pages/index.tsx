@@ -2,24 +2,50 @@ import NextLink from "next/link";
 
 const HomePage = () => {
   return (
-    <div className="flex">
-      <div
-        className="
-      m-2 p-2 rounded-xl
-      transition-all ease-in-out 
-      hover:bg-blue-500"
-      >
-        <h1
+    <>
+      <div className="flex">
+        <div
           className="
-        font-extrabold 
-        bg-gradient-to-r from-red-500 via-pink-500 to-purple-500 text-transparent bg-clip-text"
+        rounded-xl m-2 p-2
+        bg-bs
+        transition-all duration-700 ease-in-out 
+        hover:bg-bh hover:translate-x-2 hover:shadow-2xl
+        "
         >
-          <NextLink href={"/demos"}>
-            <a>demos</a>
-          </NextLink>
-        </h1>
+          <h1
+            className="
+          font-extrabold text-lg
+          bg-gradient-to-bl from-gs via-gm to-ge text-transparent bg-clip-text
+          "
+          >
+            <NextLink href={"/demos"}>
+              <a>demos</a>
+            </NextLink>
+          </h1>
+        </div>
       </div>
-    </div>
+      <div className="flex">
+        <div
+          className="
+      rounded-xl m-2 p-2
+      bg-bs
+      transition-all duration-700 ease-in-out 
+      hover:bg-bh hover:translate-x-2 hover:shadow-2xl
+      "
+        >
+          <h1
+            className="
+        font-extrabold text-lg
+        bg-gradient-to-bl from-gs via-gm to-ge text-transparent bg-clip-text
+        "
+          >
+            <NextLink href={"/demos"}>
+              <a>demos</a>
+            </NextLink>
+          </h1>
+        </div>
+      </div>
+    </>
   );
 };
 
