@@ -58,7 +58,7 @@ const DemosPage: NextPage = () => {
         3d Programming Demos in the browser
       </h1>
       <div className="mx-auto">
-        <div className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1">
+        <div className="">
           {demos.map(({ title, url, imgsrc, description }: ICardLink) => (
             <div className="m-2 flex justify-center" key={title}>
               <div className="w-96 bg-base-100 shadow-xl image-full">
@@ -74,9 +74,15 @@ const DemosPage: NextPage = () => {
                   <h2 className="">{title}</h2>
                   <p>{description}</p>
                   <div className="justify-end">
-                    <NextLink href={url}>
-                      <a className="">View</a>
-                    </NextLink>
+                    <div className="flex">
+                      <div className="rounded-xl m-2 p-2 bg-bs transition-all duration-700 ease-in-out hover:bg-bh hover:translate-x-2 hover:shadow-2xl">
+                        <div className="font-extrabold text-xl bg-gradient-to-r from-gs via-gm to-ge text-transparent bg-clip-text">
+                          <NextLink href={url}>
+                            <a className="">View</a>
+                          </NextLink>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>

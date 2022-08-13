@@ -10,14 +10,14 @@ export interface ILayoutProps {
 }
 
 const Layout: FC<ILayoutProps> = ({ children }) => {
-  const [menuOn, setMenuOn] = useState(false);
+  const [menuOn, setMenuOn] = useState(!false);
 
   return (
     <div>
       <div
         className={
           "absolute w-full transition-all duration-700 ease-in-out " +
-          (!menuOn ? "right-0 opacity-100" : "-right-full opacity-0")
+          (!menuOn ? "top-0 opacity-100" : "-top-full opacity-0 -z-10")
         }
       >
         <Navbar setMenuOn={setMenuOn} />
@@ -29,14 +29,14 @@ const Layout: FC<ILayoutProps> = ({ children }) => {
           (menuOn ? "top-0 opacity-100" : "-top-full opacity-0")
         }
       >
-        <Menu menuOn={menuOn} setMenuOn={setMenuOn} />
+        <Menu setMenuOn={setMenuOn} />
       </div>
 
       {/* Page */}
       <div
         className={
           "absolute w-full transition-all duration-700 ease-in-out " +
-          (!menuOn ? "top-20 opacity-100" : "-top-full opacity-0")
+          (!menuOn ? "top-16 opacity-100" : "-top-full opacity-0 -z-10")
         }
       >
         {children}
