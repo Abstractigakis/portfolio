@@ -57,7 +57,7 @@ const DemosPage: NextPage = () => {
       <h1 className="m-4 p-4 text-3xl mx-auto text-center">
         3d Programming Demos in the browser
       </h1>
-      <div className="absolute container mx-auto ">
+      <div className="mx-auto">
         <div className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1">
           {demos.map(({ title, url, imgsrc, description }: ICardLink) => (
             <div className="m-2 flex justify-center" key={title}>
