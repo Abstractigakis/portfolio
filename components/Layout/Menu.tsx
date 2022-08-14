@@ -39,7 +39,7 @@ const Menu: FC<IMenuProps> = ({ setMenuOn }) => {
         </div>
         <div className="grid place-items-center">
           {menuLinks.map((ml) => (
-            <div className="flex">
+            <div className="flex" key={ml.title}>
               <div className="rounded-xl m-2 p-2 bg-bs transition-all duration-700 ease-in-out hover:bg-bh hover:translate-x-2 hover:shadow-2xl">
                 <div
                   onClick={() => setMenuOn(false)}
