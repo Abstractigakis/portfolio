@@ -3,6 +3,7 @@ import { useState } from "react";
 import { FC, ReactNode } from "react";
 import Menu from "./Menu";
 import Navbar from "./Navbar";
+import PageLoading from "./PageLoading";
 // import { Toaster } from "react-hot-toast";
 
 export interface ILayoutProps {
@@ -10,7 +11,8 @@ export interface ILayoutProps {
 }
 
 const Layout: FC<ILayoutProps> = ({ children }) => {
-  const [menuOn, setMenuOn] = useState(!false);
+  const [menuOn, setMenuOn] = useState(false);
+  const [loading, setLoading] = useState(false);
 
   return (
     <div>
@@ -41,7 +43,9 @@ const Layout: FC<ILayoutProps> = ({ children }) => {
       >
         {children}
       </div>
+
       {/* <Toaster /> */}
+      <PageLoading />
     </div>
   );
 };

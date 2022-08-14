@@ -4,7 +4,7 @@ import "../styles/globals.css";
 
 import { AnimatePresence } from "framer-motion";
 import Layout from "@components/Layout";
-import PageLoading from "@components/PageLoading";
+import PageLoading from "@components/Layout/PageLoading";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -12,7 +12,6 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <title>abstractigakis.io</title>
       </Head>
-      {/* <PageLoading /> */}
 
       <Layout>
         <Component {...pageProps} />
