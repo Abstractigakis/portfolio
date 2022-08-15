@@ -14,20 +14,19 @@ const demos: ICardLink[] = [
     title: "Geolocation",
     url: "/demos/geolocation",
     imgsrc: "/images/geolocation.png",
-    description:
-      "POC for showing the user's geo-location data on the earth with React spring and React Three Fiber",
+    description: "Animated User's geo-location",
   },
   {
     title: "Fibre Physics",
     url: "/demos/physics",
     imgsrc: "/images/physics.png",
-    description: "Learning the basics of React Cannon Physics",
+    description: "React Cannon Physics basics",
   },
   {
     title: "Fibre Environment",
     url: "/demos/environment",
     imgsrc: "/images/environment.png",
-    description: "POC for learning React Three Fiber enviornment primitives",
+    description: "React Three Fiber enviornment primitives",
   },
   {
     title: "WebGL Unity Demo",
@@ -39,15 +38,13 @@ const demos: ICardLink[] = [
     title: "Audio Visualizer",
     url: "/demos/waveform",
     imgsrc: "/images/geolocation.png",
-    description:
-      "Extracting the real time frequency data from an audio HTML5 element that is playing an mp3 file, and rendering the data with a React Three FibreMesh",
+    description: "Rendering Audio waveforms",
   },
   {
     title: "Joey Karate",
     url: "/demos/gabagoo",
     imgsrc: "/images/gabagoo.png",
-    description:
-      "POC for Charchter Animations fbx files, processed to gltf files in blender",
+    description: "fbx to gltf files with blender",
   },
 ];
 
@@ -57,38 +54,36 @@ const DemosPage: NextPage = () => {
       <h1 className="m-4 p-4 text-3xl mx-auto text-center">
         3d Programming Demos in the browser
       </h1>
-      <div className="mx-auto">
-        <div className="">
-          {demos.map(({ title, url, imgsrc, description }: ICardLink) => (
-            <div className="m-2 flex justify-center" key={title}>
-              <div className="w-96 bg-base-100 shadow-xl image-full">
-                <figure>
-                  <NextImage
-                    src={imgsrc}
-                    width={110 * 1.3}
-                    height={100 * 1.3}
-                    alt={title}
-                  />
-                </figure>
-                <div className="">
-                  <h2 className="">{title}</h2>
+      <div className="mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+        {demos.map(({ title, url, imgsrc, description }: ICardLink) => (
+          <div className="flex justify-center" key={title}>
+            <div className="bg-bs m-2 rounded-lg shadow-xl">
+              <div className="grid grid-cols-3">
+                <NextImage
+                  className="rounded-lg shadow-xl"
+                  layout="fixed"
+                  src={imgsrc}
+                  width={110 * 1.3}
+                  height={110 * 1.3}
+                  alt={title}
+                />
+                <div className="m-3 ml-12 col-span-2">
                   <p>{description}</p>
-                  <div className="justify-end">
-                    <div className="flex">
-                      <div className="rounded-xl m-2 p-2 bg-bs transition-all duration-700 ease-in-out hover:bg-bh hover:translate-x-2 hover:shadow-2xl">
-                        <div className="font-extrabold text-xl bg-gradient-to-r from-gs via-gm to-ge text-transparent bg-clip-text">
-                          <NextLink href={url}>
-                            <a className="">View</a>
-                          </NextLink>
-                        </div>
+                  <div className="flex justify-center ">
+                    <div className="text-center rounded-xl m-2 p-2 bg-bs transition-all duration-700 ease-in-out hover:bg-bh hover:scale-110 hover:shadow-2xl">
+                      <div className="font-extrabold text-xl bg-gradient-to-r from-gs via-gm to-ge text-transparent bg-clip-text">
+                        <NextLink href={url}>
+                          <a>{title.toLocaleUpperCase()}</a>
+                        </NextLink>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
+              {/* button */}
             </div>
-          ))}
-        </div>
+          </div>
+        ))}
       </div>
     </>
   );

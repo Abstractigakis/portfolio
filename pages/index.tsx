@@ -1,5 +1,7 @@
+import HomeAnimatedBG from "@components/HomeAnimatedBG";
+
 const HomePage = () => {
-  return <>HOME</>;
+  return <HomeAnimatedBG />;
 };
 
 export default HomePage;

@@ -25,16 +25,6 @@ const PageLoading: FC = () => {
     >
       <div className="flex h-screen">
         <div className="m-auto">
-          <Head>
-            <link
-              rel="stylesheet"
-              href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css"
-              integrity="sha512-42kB9yDlYiCEfx2xVwq0q7hT4uf26FUgSIZBK8uiaEnTdShXjwr8Ip1V4xGJMg3mHkUt9nNuTDxunHF0/EgxLQ=="
-              crossOrigin="anonymous"
-              referrerPolicy="no-referrer"
-            />
-          </Head>
-
           <div className="bg-black bg-opacity-50 absolute inset-0 grid place-items-center">
             <svg
               role="status"
