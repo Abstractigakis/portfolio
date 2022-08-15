@@ -37,7 +37,7 @@ const Navbar: FC<INavbarProps> = ({ menuOn, setMenuOn }) => {
             <rect
               className={
                 "transition-all duration-700 ease-in-out " +
-                (menuOn ? "fill-gs group-hover:fill-pink-500" : "opacity-0")
+                (menuOn ? "fill-gs group-hover:fill-gm" : "opacity-0")
               }
               width={2 * R}
               height={200}
@@ -47,7 +47,7 @@ const Navbar: FC<INavbarProps> = ({ menuOn, setMenuOn }) => {
             <rect
               className={
                 "transition-all duration-700 ease-in-out " +
-                (menuOn ? "fill-gs group-hover:fill-pink-500" : "opacity-0")
+                (menuOn ? "fill-gs group-hover:fill-gm" : "opacity-0")
               }
               width={2 * R}
               height={200}
@@ -59,7 +59,7 @@ const Navbar: FC<INavbarProps> = ({ menuOn, setMenuOn }) => {
               className={
                 " transition-all duration-700 ease-in-out " +
                 (menuOn
-                  ? "fill-gs group-hover:fill-pink-500"
+                  ? "fill-gs group-hover:fill-gm"
                   : "fill-ge group-hover:fill-gm")
               }
               cx={50}
@@ -109,7 +109,7 @@ const Navbar: FC<INavbarProps> = ({ menuOn, setMenuOn }) => {
               className={
                 " transition-all duration-700 ease-in-out " +
                 (menuOn
-                  ? "fill-gs group-hover:fill-pink-500"
+                  ? "fill-gs group-hover:fill-gm"
                   : "fill-ge group-hover:fill-gm")
               }
               cx={menuOn ? 100 - R : 50}
@@ -120,7 +120,7 @@ const Navbar: FC<INavbarProps> = ({ menuOn, setMenuOn }) => {
               className={
                 " transition-all duration-700 ease-in-out " +
                 (menuOn
-                  ? "fill-gs group-hover:fill-pink-500"
+                  ? "fill-gs group-hover:fill-gm"
                   : "fill-ge group-hover:fill-gm")
               }
               cx={menuOn ? R : 50}
@@ -131,7 +131,7 @@ const Navbar: FC<INavbarProps> = ({ menuOn, setMenuOn }) => {
               className={
                 " transition-all duration-700 ease-in-out " +
                 (menuOn
-                  ? "fill-gs group-hover:fill-pink-500"
+                  ? "fill-gs group-hover:fill-gm"
                   : "fill-ge group-hover:fill-gm")
               }
               cx={100 - R}
@@ -142,7 +142,7 @@ const Navbar: FC<INavbarProps> = ({ menuOn, setMenuOn }) => {
               className={
                 " transition-all duration-700 ease-in-out " +
                 (menuOn
-                  ? "fill-gs group-hover:fill-pink-500"
+                  ? "fill-gs group-hover:fill-gm"
                   : "fill-ge group-hover:fill-gm")
               }
               cx={R}
