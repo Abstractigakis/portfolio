@@ -12,17 +12,15 @@ export interface ILayoutProps {
 
 const Layout: FC<ILayoutProps> = ({ children }) => {
   const [menuOn, setMenuOn] = useState(false);
-  const [loading, setLoading] = useState(false);
 
   return (
     <div>
       <div
         className={
-          "absolute w-full transition-all duration-700 ease-in-out " +
-          (!menuOn ? "top-0 opacity-100" : "-top-full opacity-0 -z-10")
+          "absolute w-full transition-all duration-700 ease-in-out z-50"
         }
       >
-        <Navbar setMenuOn={setMenuOn} />
+        <Navbar menuOn={menuOn} setMenuOn={setMenuOn} />
       </div>
 
       <div

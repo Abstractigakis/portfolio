@@ -1,18 +1,54 @@
-import { Suspense } from "react";
-import { Canvas } from "@react-three/fiber";
-
-import { OrbitControls } from "@react-three/drei";
-import { useRef } from "react";
-
 const HomeAnimatedBG = () => {
-  const orbitControlsRef = useRef(null);
   return (
-    <div className="w-screen h-screen">
-      <Canvas>
-        <Suspense fallback={null}>
-          <OrbitControls ref={orbitControlsRef} target={[0, 0, 0]} />
-        </Suspense>
-      </Canvas>
+    <div>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim expedita,
+        explicabo quam ut quod harum recusandae cumque vitae voluptatum
+        blanditiis hic, quaerat est veritatis exercitationem unde fuga magni
+        nesciunt commodi.
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim expedita,
+        explicabo quam ut quod harum recusandae cumque vitae voluptatum
+        blanditiis hic, quaerat est veritatis exercitationem unde fuga magni
+        nesciunt commodi.
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim expedita,
+        explicabo quam ut quod harum recusandae cumque vitae voluptatum
+        blanditiis hic, quaerat est veritatis exercitationem unde fuga magni
+        nesciunt commodi.
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim expedita,
+        explicabo quam ut quod harum recusandae cumque vitae voluptatum
+        blanditiis hic, quaerat est veritatis exercitationem unde fuga magni
+        nesciunt commodi.
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim expedita,
+        explicabo quam ut quod harum recusandae cumque vitae voluptatum
+        blanditiis hic, quaerat est veritatis exercitationem unde fuga magni
+        nesciunt commodi.
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim expedita,
+        explicabo quam ut quod harum recusandae cumque vitae voluptatum
+        blanditiis hic, quaerat est veritatis exercitationem unde fuga magni
+        nesciunt commodi.
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim expedita,
+        explicabo quam ut quod harum recusandae cumque vitae voluptatum
+        blanditiis hic, quaerat est veritatis exercitationem unde fuga magni
+        nesciunt commodi.
+      </p>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim expedita,
+        explicabo quam ut quod harum recusandae cumque vitae voluptatum
+        blanditiis hic, quaerat est veritatis exercitationem unde fuga magni
+        nesciunt commodi.
+      </p>
     </div>
   );
 };
