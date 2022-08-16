@@ -1,7 +1,6 @@
 import { useState } from "react";
 
 import { FC, ReactNode } from "react";
-import { VARS } from "theme";
 import Menu from "./Menu";
 import Navbar from "./Navbar";
 import PageLoading from "./PageLoading";
