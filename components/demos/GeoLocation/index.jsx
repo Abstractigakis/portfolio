@@ -10,7 +10,7 @@ const GeoLocation = () => {
   const orbitControlsRef = useRef(null);
   const userLocation = useGeolocation();
   return (
-    <div className="absolute inset-0 w-screen h-screen">
+    <div className={"w-screen h-[calc(100vh-var(--nav-height))]"}>
       <p className="absolute bottom-0 right-0 h-32 w-32 z-10 text-amber-500">
         Click to zoom in on your current location
       </p>

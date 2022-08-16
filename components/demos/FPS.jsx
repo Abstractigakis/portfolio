@@ -2,7 +2,7 @@ import UnityContainer from "../Unity/Container";
 
 const FPS = () => {
   return (
-    <div className="absolute grid place-items-center w-screen h-screen inset-0">
+    <div className={"w-screen h-[calc(100vh-var(--nav-height))]"}>
       <UnityContainer
         loaderUrl="/FPS/build/builds.loader.js"
         dataUrl="/FPS/build/webgl.data"

@@ -1,5 +1,5 @@
 import NextLink from "next/link";
-
+import { VARS } from "theme";
 import { FC } from "react";
 // import { Toaster } from "react-hot-toast";
 
@@ -9,9 +9,13 @@ export interface INavbarProps {
 }
 
 const Navbar: FC<INavbarProps> = ({ menuOn, setMenuOn }) => {
-  const R = 16;
+  const R = 10;
   return (
-    <nav className="flex items-center justify-between flex-wrap bg-bs">
+    <nav
+      className={
+        "flex items-center justify-between flex-wrap bg-bs h-[var(--nav-height)]"
+      }
+    >
       <div className="flex items-center">
         <NextLink href={"/"}>
           <div

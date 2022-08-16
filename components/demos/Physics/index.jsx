@@ -12,7 +12,7 @@ import { Environment } from "@react-three/drei";
 
 const GetTheBallRolling = () => {
   return (
-    <div className="w-screen h-screen">
+    <div className={"w-screen h-[calc(100vh-var(--nav-height))]"}>
       <Canvas shadows className="absolute inset-0">
         <Suspense fallback={null}>
           <Physics>

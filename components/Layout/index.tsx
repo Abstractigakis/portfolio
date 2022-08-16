@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 import { FC, ReactNode } from "react";
+import { VARS } from "theme";
 import Menu from "./Menu";
 import Navbar from "./Navbar";
 import PageLoading from "./PageLoading";
@@ -36,7 +37,9 @@ const Layout: FC<ILayoutProps> = ({ children }) => {
       <div
         className={
           "absolute w-full transition-all duration-700 ease-in-out " +
-          (!menuOn ? "top-16 opacity-100" : "-top-full opacity-0 -z-10")
+          (!menuOn
+            ? "top-[var(--nav-height)] opacity-100"
+            : "-top-full opacity-0 -z-10")
         }
       >
         {children}

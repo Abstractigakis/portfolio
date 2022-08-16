@@ -16,7 +16,7 @@ const EnvironmentExample = () => {
   const ballRef = useRef(null);
 
   return (
-    <div className="absolute w-screen h-screen inset-0">
+    <div className={"w-screen h-[calc(100vh-var(--nav-height))]"}>
       <Canvas shadows>
         <Suspense fallback={null}>
           <OrbitControls

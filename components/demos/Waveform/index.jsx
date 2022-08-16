@@ -37,7 +37,7 @@ const Waveform = () => {
   };
 
   return (
-    <div className="absolute inset-0 w-screen h-screen">
+    <div className={"w-screen h-[calc(100vh-var(--nav-height))]"}>
       <audio
         className="absolute z-10 inset-20 m-4"
         id="audio-el"
