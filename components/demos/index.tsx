@@ -56,6 +56,15 @@ const webGames: ICardLink[] = [
   },
 ];
 
+const pythonAlgorithms: ICardLink[] = [
+  {
+    title: "Sudoku Solver",
+    url: "https://github.com/Abstractigakis/sudoku-solver",
+    imgsrc: "/images/sudoku.png",
+    description: "Sudoku Solver AI with Backtracking and Heuristics",
+  },
+];
+
 export interface ISection {
   title: string;
   cards: ICardLink[];
@@ -63,7 +72,8 @@ export interface ISection {
 
 const sections = [
   { title: "Web Apps", cards: webGames },
-  { title: "3d Programming Demos in the browser", cards: threeDemos },
+  { title: "3d Programming Demos", cards: threeDemos },
+  { title: "Python Algorithms", cards: pythonAlgorithms },
 ];
 
 const Demos = () => {
