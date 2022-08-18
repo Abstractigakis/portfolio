@@ -1,5 +1,4 @@
 import NextLink from "next/link";
-import { VARS } from "theme";
 import { FC } from "react";
 // import { Toaster } from "react-hot-toast";
 

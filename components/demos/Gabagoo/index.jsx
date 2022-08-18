@@ -1,7 +1,6 @@
 import { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import Joey from "./Joey";
-import { VARS } from "theme";
 
 const Gabagoo = () => {
   return (
