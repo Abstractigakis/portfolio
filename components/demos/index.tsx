@@ -18,6 +18,20 @@ const threeDemos: ICardLink[] = [
     tags: ["threejs", "webGL", "r3f", "3dprogramming", "APIs", "geolocation"],
   },
   {
+    title: "Audio Visualizer",
+    url: "/demos/waveform",
+    imgsrc: "/images/geolocation.png",
+    description: "Rendering Audio waveforms",
+    tags: ["threejs", "webGL", "r3f", "3dprogramming", "physics"],
+  },
+  {
+    title: "Joey Karate",
+    url: "/demos/gabagoo",
+    imgsrc: "/images/gabagoo.png",
+    description: "fbx to gltf files with blender",
+    tags: ["threejs", "webGL", "r3f", "blender"],
+  },
+  {
     title: "Fibre Physics",
     url: "/demos/physics",
     imgsrc: "/images/physics.png",
@@ -38,37 +52,39 @@ const threeDemos: ICardLink[] = [
     description: "POC for executing unity projects in the browser",
     tags: ["C#", "webGL", "3dprogramming", "WASM"],
   },
-  {
-    title: "Audio Visualizer",
-    url: "/demos/waveform",
-    imgsrc: "/images/geolocation.png",
-    description: "Rendering Audio waveforms",
-    tags: ["threejs", "webGL", "r3f", "3dprogramming", "physics"],
-  },
-  {
-    title: "Joey Karate",
-    url: "/demos/gabagoo",
-    imgsrc: "/images/gabagoo.png",
-    description: "fbx to gltf files with blender",
-    tags: ["threejs", "webGL", "r3f", "blender"],
-  },
 ];
 
-const webGames: ICardLink[] = [
+const wepApps: ICardLink[] = [
   {
     title: "4Word",
     url: "https://4word.app",
     imgsrc: "/images/4word.png",
     description: "Wordle-esque game",
     tags: [
-      "TypeScript",
+      "typescript",
       "aws",
       "tailwindcss",
-      "OAuth",
+      "ouath",
+      "anonymousauth",
       "aurora",
       "postgressql",
       "stripe",
     ],
+  },
+  {
+    title: "abstractigakis.io",
+    url: "/",
+    imgsrc: "/images/logo.png",
+    description: "My Portfolio website, built to showcase all of my works",
+    tags: ["typescript", "music", "tailwindcss", "react", "nextjs"],
+  },
+  {
+    title: "Custom Audio Controller",
+    url: "/demos/audioplayer",
+    imgsrc: "/images/4word.png",
+    description:
+      "An audio player that can support Puase, Play, Scrubbing and Next/Previous Song",
+    tags: ["typescript", "music", "tailwindcss", "react"],
   },
 ];
 
@@ -116,7 +132,7 @@ export interface ISection {
 }
 
 const sections = [
-  { title: "Web Apps", cards: webGames },
+  { title: "Web Apps and Components", cards: wepApps },
   { title: "3d Programming Demos", cards: threeDemos },
   { title: "Python Algorithms", cards: pythonAlgorithms },
 ];
