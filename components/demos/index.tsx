@@ -155,7 +155,10 @@ const Demos = () => {
                     </div>
                     <div className="px-6 pt-4 pb-2">
                       {tags.map((t) => (
-                        <span className="inline-block bg-txt rounded-full px-3 py-1 text-sm font-semibold text-bs mr-2 mb-2">
+                        <span
+                          key={t}
+                          className="inline-block bg-txt rounded-full px-3 py-1 text-sm font-semibold text-bs mr-2 mb-2"
+                        >
                           #{t}
                         </span>
                       ))}
