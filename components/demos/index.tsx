@@ -90,7 +90,7 @@ const pythonAlgorithms: ICardLink[] = [
   {
     title: "Variable Elimination Algorithm",
     url: "https://github.com/Abstractigakis/variable-elimination-algorithm",
-    imgsrc: "/images/4word.png",
+    imgsrc: "/images/git.png",
     description:
       "simple and general exact inference algorithm in probabilistic graphical models",
     tags: [
@@ -104,7 +104,7 @@ const pythonAlgorithms: ICardLink[] = [
   {
     title: "Google FooBar Coding Challenge",
     url: "https://github.com/Abstractigakis/bringing-a-gun-to-a-trainer-fight",
-    imgsrc: "/images/4word.png",
+    imgsrc: "/images/git.png",
     description: "My solution to my favourite google foo bar problem",
     tags: ["python", "symetry", "math"],
   },
@@ -126,7 +126,7 @@ const Demos = () => {
     <>
       {sections.map((s, i) => (
         <>
-          <h1 className="m-4 p-4 text-3xl mx-auto text-center">
+          <h1 key={i} className="m-4 p-4 text-3xl mx-auto text-center">
             <div className="font-extrabold bg-gradient-to-r from-gs via-gm to-ge text-transparent bg-clip-text">
               {s.title}
             </div>
@@ -144,7 +144,7 @@ const Demos = () => {
                       alt={title}
                     />
                     <div className="px-6 py-4">
-                      <div className="text-center rounded-xl m-2 p-2 bg-txt transition-all duration-700 ease-in-out hover:bg-bh hover:scale-110 hover:shadow-2xl">
+                      <div className="text-center rounded-xl m-2 p-2 bg-bh transition-all duration-700 ease-in-out hover:bg-txt hover:scale-110 hover:shadow-2xl">
                         <div className="font-extrabold text-xl bg-gradient-to-r from-gs via-gm to-ge text-transparent bg-clip-text">
                           <NextLink href={url}>
                             <a>{title.toLocaleUpperCase()}</a>
@@ -162,16 +162,6 @@ const Demos = () => {
                     </div>
                   </div>
                 </div>
-
-                //     <div className="text-center rounded-xl m-2 p-2 bg-bs transition-all duration-700 ease-in-out hover:bg-bh hover:scale-110 hover:shadow-2xl">
-                //       <div className="font-extrabold text-xl bg-gradient-to-r from-gs via-gm to-ge text-transparent bg-clip-text">
-                //         <NextLink href={url}>
-                //           <a>{title.toLocaleUpperCase()}</a>
-                //         </NextLink>
-                //       </div>
-                //     </div>
-                //
-                //   </div>
               )
             )}
           </div>
